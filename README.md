@@ -2,6 +2,11 @@
 
 A simple, efficient, and customizable visitor counter application that tracks and displays the number of visitors to your website, GitHub profile, or physical location. This project provides real-time visitor tracking with persistent data storage and easy integration.
 
+![Visitor Count](https://img.shields.io/badge/visitors-count-blue)
+[![GitHub stars](https://img.shields.io/github/stars/BelalIoT21/Visitor-Counter)](https://github.com/BelalIoT21/Visitor-Counter/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/BelalIoT21/Visitor-Counter)](https://github.com/BelalIoT21/Visitor-Counter/network)
+[![GitHub license](https://img.shields.io/github/license/BelalIoT21/Visitor-Counter)](https://github.com/BelalIoT21/Visitor-Counter/blob/main/LICENSE)
+
 ## 🚀 Features
 
 - **Real-time Counting**: Instant visitor tracking and display
@@ -15,6 +20,7 @@ A simple, efficient, and customizable visitor counter application that tracks an
 
 ## 📋 Table of Contents
 
+- [Demo](#demo)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Configuration](#configuration)
@@ -24,6 +30,28 @@ A simple, efficient, and customizable visitor counter application that tracks an
 - [Contributing](#contributing)
 - [License](#license)
 
+## 🎯 Demo
+
+### Live Demo
+Visit our [live demo](https://your-demo-url.com) to see the visitor counter in action.
+
+### Screenshot
+```
+┌─────────────────────────────┐
+│     VISITOR COUNTER         │
+├─────────────────────────────┤
+│                             │
+│    👥 Total Visitors        │
+│         12,345              │
+│                             │
+│    📅 Today's Visitors      │
+│           234               │
+│                             │
+│    🔄 Online Now           │
+│            12               │
+│                             │
+└─────────────────────────────┘
+```
 
 ## 📥 Installation
 
