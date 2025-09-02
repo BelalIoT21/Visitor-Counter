@@ -20,7 +20,6 @@ A simple, efficient, and customizable visitor counter application that tracks an
 
 ## 📋 Table of Contents
 
-- [Demo](#demo)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Configuration](#configuration)
@@ -30,28 +29,6 @@ A simple, efficient, and customizable visitor counter application that tracks an
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Demo
-
-### Live Demo
-Visit our [live demo](https://your-demo-url.com) to see the visitor counter in action.
-
-### Screenshot
-```
-┌─────────────────────────────┐
-│     VISITOR COUNTER         │
-├─────────────────────────────┤
-│                             │
-│    👥 Total Visitors        │
-│         12,345              │
-│                             │
-│    📅 Today's Visitors      │
-│           234               │
-│                             │
-│    🔄 Online Now           │
-│            12               │
-│                             │
-└─────────────────────────────┘
-```
 
 ## 📥 Installation
 
